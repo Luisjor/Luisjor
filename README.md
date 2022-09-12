@@ -6,4 +6,3 @@
 - 💬 Ask me about my passions (Sports & Programming)
 - 📫 How to reach me: Reach me vial mail (ljorchavez@gmail.com)
 - ⚡ Fun fact: I was a Civil Engineer, but I changed my career because programmig is my passion!
--->
