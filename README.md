@@ -1,7 +1,7 @@
 ### Hi there, I'm [Jorge Chávez](https://jorgechportfolio.netlify.app) 👋
 
-- 🔭 I’m currently working on become a great Automation Tester Engineer.
-- 🌱 I’m currently learning C#, .NET, Advanced React and more.
+- 🔭 I’m currently working as Automation Tester Engineer for Globant.
+- 🌱 I’m develop mainly in C#, .NET, Javascript.
 - 💬 Ask me about my passions (Sports & Programming)
 - 📫 How to reach me: Reach me vial mail (ljorchavez@gmail.com)
 - ⚡ Fun fact: I was a Civil Engineer, but I changed my career because programmig is my passion!
@@ -9,8 +9,7 @@
 
 **I am open to**:
 
-- Any collobration work.
-- I'm actually looking for a fulltime work!
+- Any collaboration work.
 - Chat about anything.
 
 ## Skills:
